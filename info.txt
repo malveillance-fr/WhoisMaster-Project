@@ -1,0 +1,71 @@
+===========================================
+          WHOIS INFORMATION FIELDS
+===========================================
+
+[ General Information ]
+- domain_name       : Domain name
+- registrar         : Domain registrar
+- whois_server      : WHOIS server used for lookup
+- referral_url      : Registrar's referral URL
+- status           : Domain status (e.g., active, clientTransferProhibited)
+- dnssec           : DNSSEC status (Enabled/Disabled)
+
+[ Important Dates ]
+- creation_date     : Date when the domain was registered
+- expiration_date   : Date when the domain expires
+- updated_date      : Last update date of the domain
+- changed_date      : Last modification date
+- last_updated      : Alternative last update date
+
+[ Registrant (Owner) Information ]
+- org              : Organization name of the domain owner
+- name             : Owner’s full name
+- address          : Full address of the owner
+- city             : City of the owner
+- state            : State/region of the owner
+- zipcode          : Postal/ZIP code
+- country          : Country of the owner
+- phone            : Contact phone number
+- fax              : Fax number
+- emails           : Contact email(s)
+
+[ Registrar Contact Information ]
+- registrant_name  : Name of the registrant
+- registrant_org   : Organization of the registrant
+- registrant_email : Registrant's email address
+- registrant_phone : Registrant's phone number
+- registrant_fax   : Registrant's fax number
+
+[ Administrative Contact (Admin) ]
+- admin_name       : Name of the domain administrator
+- admin_org        : Organization managing administrative tasks
+- admin_email      : Administrator’s contact email
+- admin_phone      : Administrator’s contact phone number
+- admin_fax        : Administrator’s fax number
+
+[ Technical Contact (Tech) ]
+- tech_name        : Name of the technical contact
+- tech_org         : Organization handling technical management
+- tech_email       : Technical support email
+- tech_phone       : Technical support phone number
+- tech_fax         : Technical support fax number
+
+[ Abuse Contact Information ]
+- abuse_email      : Email address to report abuse
+- abuse_phone      : Phone number to report abuse issues
+
+[ DNS and Network Information ]
+- name_servers     : List of DNS servers associated with the domain
+- ipv4             : IPv4 address(es) linked to the domain
+- ipv6             : IPv6 address(es) linked to the domain
+
+[ Additional Information (If Available) ]
+- registrant_id    : Unique identifier for the registrant
+- admin_id         : Unique identifier for the admin contact
+- tech_id          : Unique identifier for the tech contact
+- billing_id       : Unique identifier for the billing contact
+
+===========================================
+    Note: Some information may be hidden
+   due to privacy protection services.
+===========================================

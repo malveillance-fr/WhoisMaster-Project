@@ -1,0 +1,22 @@
+How to Follow:
+
+1. Create a Ticket:
+   - To start, go to the "Ressources" server where the process begins.
+   - Look for the ticket channel and open a new ticket. Make sure to provide any necessary details or context about your request to help the team process it faster.
+
+2. Make the Payment:
+   - After creating the ticket, you will be instructed to make a payment of 12.99€ in Bitcoin.
+   - Please note, it’s very important that you send 12.99€ worth of Bitcoin and **not** 12.99 BTC. Double-check the amount to ensure the correct value.
+   - Send the payment to the provided Bitcoin address. You will receive the address after opening the ticket, or you can inquire if it's not immediately visible.
+   
+3. Confirm the Payment:
+   - Once the payment has been sent, go back to your ticket and confirm the transaction.
+   - You may be asked to provide a screenshot of the payment or the transaction ID to verify that the payment has been completed successfully.
+   - Once verified, the team will process your request.
+
+If you encounter any issues, don’t hesitate to ask for help in your open ticket.
+
+
+==============================================
+ bc1qzppjqc7848st5q2fhm78w0ppytyfmggzenldca
+==============================================
