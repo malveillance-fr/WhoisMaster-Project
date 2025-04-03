@@ -6,7 +6,7 @@
 ## Key Features 🚀:
 - **Retrieve WHOIS information** for domains and IP addresses
 - **Structured output**: Get details like registrar, creation date, expiration date, name servers, and more
-- **Sensitive data protection**: Private info (e.g., contact emails, phone numbers) is safely marked as **REDACTED FOR PRIVACY**
+- **Sensitive data protection**: Private info (e.g., contact emails, phone numbers) *make sure not to spread them*
 - **Command-line support**: Use commands like `wm -i {ip}` for a quick query
 - **Easy-to-use** with Python and **pystyle** for colorful terminal output 🎨
   
