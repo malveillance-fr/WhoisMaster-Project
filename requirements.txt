@@ -1,0 +1,13 @@
+================================
+            REQUIREMENTS LIST
+================================
+
+--------PYTHON VERSION--------
+version : 3.x
+
+--------REQUIREMENTS----------
+
+pystyle : for color etc..
+whois : for lookup
+python-whois : whois module
+
