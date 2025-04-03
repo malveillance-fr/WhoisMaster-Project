@@ -1,3 +1,4 @@
+![WHOISMASTER](https://github.com/user-attachments/assets/a029daeb-d856-4fbb-9583-18ac1c5f64d4)
 # Whois Master 🛠️🔍
 
 **Whois Master** is a powerful investigation tool that allows you to retrieve detailed **WHOIS information** for domains and IP addresses. Whether you're a **security researcher**, a **network administrator**, or just curious about the **ownership** and **history** of a domain, this tool provides all the necessary data in a simple, user-friendly format.
