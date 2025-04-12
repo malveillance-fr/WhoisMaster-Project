@@ -101,11 +101,11 @@ def display_whois_info(info):
 
                 if "REDACTED FOR PRIVACY" in value:
                     if key == "city":
-                        value = pystyle.Colors.red + "****-****-**** (For Followers Only)"
+                        value = pystyle.Colors.red + "HIDE FOR PRIVACY"
                     elif key == "address":
-                        value = pystyle.Colors.red + "2** *** ******* (For Followers Only)"
+                        value = pystyle.Colors.red + "HIDE FOR PRIVACY"
                     else:
-                        value = pystyle.Colors.red + "2** *** ******* (For Followers Only)" # these lines are made to show that the address, city are only for followers
+                        value = pystyle.Colors.red + "HIDE FOR PRIVACY" 
                 
                 print(pystyle.Colors.cyan + f"[+] {label}: " + pystyle.Colors.green + value)
         
