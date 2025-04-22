@@ -2,7 +2,7 @@
 #                            LICENCE D'UTILISATION
 # ========================================================================
 # Nom du programme : WhoisMaster
-# Développeur : Malveillance
+# Développeur : Kazam
 # Version : 3.6
 # Année : 2025
 # Droits d'auteur : © 2025 Malveillance. Tous droits réservés.
